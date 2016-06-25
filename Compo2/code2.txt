@@ -1,0 +1,4 @@
+
+This is Compo 2.
+
+Version 1.0
